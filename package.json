@@ -1,0 +1,23 @@
+{
+  "name": "week-2-in-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiza-q/node-week-2-in-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiza-q/node-week-2-in-class/issues"
+  },
+  "homepage": "https://github.com/luiza-q/node-week-2-in-class#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
